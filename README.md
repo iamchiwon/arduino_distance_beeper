@@ -71,7 +71,8 @@ long readUltrasonicDistance(int triggerPin, int echoPin)
 
 ### 결과물
 
-[![Video Label](http://img.youtube.com/vi/LTu5CMP1euM/0.jpg)](https://youtu.be/LTu5CMP1euM) 거리 센서기
+[![Video Label](http://img.youtube.com/vi/LTu5CMP1euM/0.jpg)](https://youtu.be/LTu5CMP1euM)  
+Video
 
 
 ### Outro
